@@ -76,8 +76,7 @@ Find the full Arduino sketch in [Arduino/LineFollower.ino](Arduino/LineFollower.
 
 ## 📸 Images
 
-![Wiring Diagram](images/wiring-diagram.png)
-![Path Example](images/line-path-example.jpg)
+![Wiring Diagram](images/Amit_3ir_sensor_Line Follower.png)
 
 ---
 
