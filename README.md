@@ -2,8 +2,6 @@
 
 Build a simple and efficient **line follower robot** using an Arduino Uno, L298N motor driver, and 3 digital IR sensors. This bot can follow a white line on a black background using basic sensor logic.
 
-![Robot](images/assembled-robot.jpg)
-
 ---
 
 ## 🛠️ Components Required
