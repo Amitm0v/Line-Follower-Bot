@@ -1,6 +1,6 @@
 # 🤖 3-Sensor Line Follower Robot | Arduino + L298N
-
-Build a simple and efficient **line follower robot** using an Arduino Uno, L298N motor driver, and 3 digital IR sensors. This bot can follow a white line on a black background using basic sensor logic.
+Here is the link to my Instructables https://www.instructables.com/Building-a-3-Sensor-Line-Follower-Robot-Arduino-L2/
+This Repository will show you how to build a simple and efficient **line follower robot** using an Arduino Uno, L298N motor driver, and 3 digital IR sensors. This bot can follow a white line on a black background using basic sensor logic.
 
 ---
 
@@ -51,7 +51,7 @@ Build a simple and efficient **line follower robot** using an Arduino Uno, L298N
 
 ## 👨‍💻 Code
 
-Find the full Arduino sketch in [Arduino/LineFollower.ino](Arduino/LineFollower.ino)
+Find the full Arduino sketch in https://app.arduino.cc/sketches/9d1ebf2f-3842-4707-9d72-56cfc71b0534?view-mode=preview
 
 ---
 
@@ -74,10 +74,7 @@ Find the full Arduino sketch in [Arduino/LineFollower.ino](Arduino/LineFollower.
 
 ## 📸 Images
 
-![Wiring Diagram](images/Amit_3ir_sensor_Line Follower.png)
+!images/Line-Follower-Bot/blob/main/Amit_3ir_sensor_Line%20Follower.png
 
 ---
 
-## 📜 License
-
-This project is open-source under the MIT License.
