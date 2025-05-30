@@ -72,9 +72,3 @@ Find the full Arduino sketch in https://app.arduino.cc/sketches/9d1ebf2f-3842-47
 
 ---
 
-## 📸 Images
-
-!images/Line-Follower-Bot/blob/main/Amit_3ir_sensor_Line%20Follower.png
-
----
-
