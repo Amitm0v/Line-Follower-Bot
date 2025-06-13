@@ -54,7 +54,6 @@ This Repository will show you how to build a simple and efficient **line followe
 Find the full Arduino sketch in https://app.arduino.cc/sketches/9d1ebf2f-3842-4707-9d72-56cfc71b0534?view-mode=preview
 
 ---
-
 ## 🧪 Testing
 
 1. Upload the sketch to your Arduino
