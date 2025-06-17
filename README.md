@@ -55,7 +55,6 @@ Find the full Arduino sketch in https://app.arduino.cc/sketches/9d1ebf2f-3842-47
 
 ---
 ## 🧪 Testing
-
 1. Upload the sketch to your Arduino
 2. Power the system and place the bot on a line path
 3. Adjust sensor position if needed
