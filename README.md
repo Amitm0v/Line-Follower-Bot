@@ -15,7 +15,6 @@ This Repository will show you how to build a simple and efficient **line followe
 - Jumper Wires, Switch (optional)
 
 ---
-
 ## 🔌 Wiring
 
 | Sensor       | Arduino Pin |
