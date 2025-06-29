@@ -13,7 +13,6 @@ This Repository will show you how to build a simple and efficient **line followe
 - Robot Chassis  
 - 6V–12V Battery Pack  
 - Jumper Wires, Switch (optional)
-
 ---
 ## 🔌 Wiring
 
